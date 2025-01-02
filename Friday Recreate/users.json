@@ -1,0 +1,54 @@
+{
+    "users": [
+        {
+            "name": "veer",
+            "gender": "male",
+            "is_admin": true
+        },
+        {
+            "name": "codex",
+            "gender": "male",
+            "is_admin": true
+        },
+        {
+            "name": "veerendra",
+            "gender": "male",
+            "is_admin": true
+        },
+        {
+            "name": "virendra",
+            "gender": "male",
+            "is_admin": true
+        },
+        {
+            "name": "veerendra vishwakarma",
+            "gender": "male",
+            "is_admin": true
+        },
+        {
+            "name": "kajal",
+            "gender": "female",
+            "is_admin": true
+        },
+        {
+            "name": "laddu",
+            "gender": "female",
+            "is_admin": true
+        },
+        {
+            "name": "doraemon",
+            "gender": "male doraemon bechara mel usko female",
+            "is_admin": false
+        },
+        {
+            "name": "none",
+            "gender": "are sun to liya usne",
+            "is_admin": false
+        },
+        {
+            "name": "komal",
+            "gender": "female",
+            "is_admin": false
+        }
+    ]
+}
