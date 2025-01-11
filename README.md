@@ -18,17 +18,17 @@ An intelligent voice-controlled AI assistant created by Codex, inspired by JARVI
 Make sure you have Python installed on your system. Then install the required packages:
 
 ### Required Packages:
-- pyttsx3
-- SpeechRecognition
-- pyaudio
-- requests
-- google-generativeai
-- yt-dlp
-- pafy
-- pygame
-- youtube-search-python
-- selenium
-- webdriver-manager
+- `pyttsx3`
+- `SpeechRecognition`
+- `pyaudio`
+- `requests`
+- `google-generativeai`
+- `yt-dlp`
+- `pafy`
+- `pygame`
+- `youtube-search-python`
+- `selenium`
+- `webdriver-manager`
 
 ## 🔑 API Keys Required
 
@@ -38,17 +38,30 @@ You'll need to obtain the following API keys:
 
 ## 🚀 Getting Started
 
-1. Clone this repository
-2. Install the required packages
-3. Set up your API keys in the main script
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/yourusername/friday-ai-assistant-2.0.git
+   cd friday-ai-assistant-2.0
+   ```
+
+2. Install the required packages:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. Set up your API keys in the main script.
+
 4. Run the main script:
+   ```bash
+   python main.py
+   ```
 
 ## 💡 Usage
 
-1. The assistant activates when it detects the wake word
-2. First-time users will need to register with their name and gender
-3. Speak commands clearly into your microphone
-4. The assistant will respond with voice output
+1. The assistant activates when it detects the wake word.
+2. First-time users will need to register with their name and gender.
+3. Speak commands clearly into your microphone.
+4. The assistant will respond with voice output.
 
 ### Available Commands:
 - "Hello/Hi/Hey" - General greeting
@@ -82,4 +95,5 @@ This project was created by Codex. It's intended for educational purposes and pe
 - All open-source libraries used in this project
 
 ---
+
 Created with ❤️ by Codex
