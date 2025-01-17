@@ -30,7 +30,7 @@ voices = engine.getProperty('voices')
 engine.setProperty('voice', voices[1].id)
 
 # Add these near the top with other constants
-GEMINI_API_KEY = "AIzaSyDMJPxYhVOvZFwvYQ0UEvx9IEJyULgYyrU"
+GEMINI_API_KEY = "your-api-key"
 
 # Initialize AI models
 genai.configure(api_key=GEMINI_API_KEY)
